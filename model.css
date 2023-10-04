@@ -1,0 +1,15 @@
+div{
+        margin: 0px auto;
+        padding: 35px;
+        width: 300px;
+        height: 200px;
+        border: 50px solid rgb(30, 229, 53); 
+}
+p{
+    padding: 40px;
+    background-color: rgb(202, 196, 196) ;
+    font-size: 30px;
+    text-align: center;
+    height: 30px;
+       
+}
